@@ -610,4 +610,4 @@ puzzle.jsp
 
 실행결과
 
-![res1](../../images/2023-08-09-NumberPuzzle/res1-1691581019722-2.png){: width="100%" height="100%"}![res2](../../images/2023-08-09-NumberPuzzle/res2.png){: width="100%" height="100%"}![res3](../../images/2023-08-09-NumberPuzzle/res3.png){: width="100%" height="100%"}
+![res1](../../images/2023-08-09-NumberPuzzle/res1.png){: width="100%" height="100%"}![res2](../../images/2023-08-09-NumberPuzzle/res2.png){: width="100%" height="100%"}![res3](../../images/2023-08-09-NumberPuzzle/res3.png){: width="100%" height="100%"}
