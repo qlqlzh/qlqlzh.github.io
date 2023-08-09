@@ -1,6 +1,6 @@
 ```
 layout: single
-title:  "숫자퍼즐"
+title:  "숫자 퍼즐"
 categories : html, js
 tag : [프로젝트]
 search: true #false로 주면 검색해도 안나온다.
